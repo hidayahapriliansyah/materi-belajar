@@ -1,0 +1,85 @@
+Belajar Backend
+
+Belajar front end
+
+html
+css
+js dasar sampai dom
+
+Sebelum menuju ke bagian pemrogaman, karena backend akan sangat terkait database maka kita harus paham dulu konsep data database dan bagaimana cara menggunakannya :
+
+====TEORI DATABASE====
+Belajar Basis Data untuk Pemula - Programmer Zaman Now
+https://www.youtube.com/watch?v=S4igMZFCvh8
+
+===TOOLS (PRAKTIK DATABASE)====
+1. MySQL
+TUTORIAL MYSQL DATABASE BAHASA INDONESIA - Programmer Zaman Now
+https://www.youtube.com/watch?v=xYBclb-sYQ4&t=3s
+
+2. MongoDB (untuk mempelajari mongodb sebaiknya memiliki pengetahuan mengenai javascript karena MongoDB menggunakan javascript)
+Belajar MongoDB -  Programmer Zaman Now
+https://www.youtube.com/watch?v=2LESQWrVprc&list=PL-CtdCApEFH-eFFdPeS5e16o3THdmvxvz&index=31
+
+Kami membuat 2 jalur BE berdasarkan bahasa pemrogramannya yaitu PHP dan javascript:
+--- jika ingin memilih PHP sebagai bahasa backend 
+----PHP-------------
+======== PHP ==============
+------PHP Dasar
+1. TUTORIAL PHP DASAR BAHASA INDONESIA - Programmer Zaman Now
+https://www.youtube.com/watch?v=TaBWhb5SPfc
+
+2. Belajar PHP Untuk Pemula - Web Progmramming UNPAS
+https://www.youtube.com/watch?v=l1W2OwV5rgY&list=PLFIM0718LjIUqXfmEIBE3-uzERZPh3vp6
+
+------PHP OOP
+1. TUTORIAL PHP OOP BAHASA INDONESIA - Programmer Zaman Now
+https://www.youtube.com/watch?v=_P2t0lCzU-Q
+
+2. OOP DASAR pada PHP - Web Progmramming UNPAS
+https://www.youtube.com/watch?v=ZKDUFoouyBI&list=PLFIM0718LjIWvxxll-6wLXrC_16h_Bl_p
+
+---PHP MVC (Model View Controller)
+1. Membuat Aplikasi MVC dengan PHP - Web Progmramming UNPAS
+https://www.youtube.com/watch?v=tBKOb8Ib5nI&list=PLFIM0718LjIVEh_d-h5wAjsdv2W4SAtkx
+
+2. TUTORIAL PHP MVC (BAHASA INDONESIA) - Programmer Zaman Now
+https://www.youtube.com/watch?v=QDcrILljNOs
+
+---------------------
+Setelah mengetahui bagaimana kode PHP berjalan beserta perilaku nya, saat nya kita belajar mengenai pembuatan web dengan kerangka kerja (framework) yang sudah tersedia untuk mempercepat pembuatan website. Kenapa harus pakai framework? ya karena sekarang di industri juga kebanyakannya pakai framework bukan php native lagi (ngoding php dari 0), plus bikin website pun jadi lebih cepet.
+
+============Code Igniter============
+Code Igniter (CI) itu framework PHP yang ringan. Untuk sekarang CI itu udah kalah trend nya sama Laravel. Sebagai pengetahuan aja dipelajarin boleh, nanti pilih framework lainnya kayak Laravel nyamannya di Laravel ya gak apa apa.
+
+Membuat Sistem Login Lengkap dengan CODEIGNITER 3 - Web Progmramming UNPAS
+https://www.youtube.com/watch?v=8ROgaHfLRq0&list=PLFIM0718LjIXU8ul9FiN-owk04cQKtHPw
+
+
+======Laravel===============
+Belajar Laravel 8 - Web Progmramming UNPAS
+https://www.youtube.com/watch?v=HqAMb6kqlLs&list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2
+
+----Keep Learnig----> :) Kamu hebat udah sampai di titik ini! Semua perjuangan yang kamu lakukan berharga! Kamu harus bangga dengan dirimu sendiri. Banyak orang tidak memiliki tekad kuat seperti dirimu. Ayo! Tetaplah seperti ini dan lanjutkan. :)
+
+-----------JavaScript
+Sebelum bisa menggunakan javascript untuk BE, tentu pemahaman JS nya juga harus kuat dulu. Salah satunya dengan mempelajari ES6. Penting banget konsep konsep di ES6 itu coy. Sabar ya.
+
+Javascript Lanjutan
+JAVASCRIPT LANJUTAN - Web Programming UNPAS
+https://www.youtube.com/watch?v=RwT41El778A&list=PLFIM0718LjIUGpY8wmE41W7rTJo_3Y46-
+
+-------Node JS & Express JS
+untuk saat ini admin baru nemu yang baik (versi admin) tapi b Inggris. Gak apa dulu ya ..
+
+Node.js Crash Course Tutorial - The Net Ninja
+https://www.youtube.com/watch?v=zb3Qk8SG5Ms&list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU
+
+mongodb nya sekalian dari Net Ninja ya :
+Complete MongoDB Tutorial
+https://www.youtube.com/watch?v=ExcRbA7fy_A&list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA
+
+Nah dari sini kalau kita udah paham Node JS, Express sam mongodb sebetulnya kita udah paham masalah backend. cuma kagok ya kalau js mah mending full stack harus bisa react juga. jadi nanti kita pakai stack MERN (MongoDB, Express, React, NodeJS)
+
+MERN Stack -Net Ninja
+https://www.youtube.com/watch?v=98BzS5Oz5E4&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE

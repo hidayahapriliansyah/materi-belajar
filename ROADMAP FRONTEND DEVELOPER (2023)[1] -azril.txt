@@ -1,0 +1,86 @@
+ROADMAP FRONTEND DEVELOPER (2023)
+
+1. HTML Dasar
+Video :
+html dasar unpas
+https://www.youtube.com/playlist?list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F
+
+Programmer Zaman Now
+https://youtu.be/hMDJyb7VkYw
+
+Teks:
+petanikode
+https://www.petanikode.com/tutorial/html/
+
+2. CSS dasar
+video:
+css dasar unpas
+https://youtube.com/playlist?list=PLFIM0718LjIUBrbm6Gdh6k7ZUvPIAZm7p
+https://youtube.com/playlist?list=PLFIM0718LjIUu4Ju9GUL5zpLcuq08TKYr
+
+css kelas terbuka 
+https://youtube.com/playlist?list=PLZS-MHyEIRo4UKr7AshnKmDSsdUOkyKwe
+
+sekolah koding
+https://youtube.com/playlist?list=PLCZlgfAG0GXAvVZ1Wb1D7HVAPNJGk4f-G
+
+3. CSS3 
+unpas
+https://www.youtube.com/playlist?list=PLFIM0718LjIVCmrSWbZPKCccCkfFw-Naa
+
+
+4. CSS Media Queries
+birunidev
+https://youtu.be/KRZ1mx0nGqI
+
+5. CSS Unit
+unpas 
+https://youtube.com/playlist?list=PLFIM0718LjIWon_W_QTK3UMzE-tFvOhaq
+
+6. CSS Flexbox
+unpas
+https://youtube.com/playlist?list=PLFIM0718LjIU1lWlM34j6E9fMlrrSGZ1k
+
+7. Bootstrap
+cara fajar
+https://youtube.com/playlist?list=PLnrs9DcLyeJTxqZ4lWgVHXBwFgZEkwp9r
+
+ngoding pintar
+https://youtube.com/playlist?list=PL53uJBBtLf5ChsCZp26yEcDQu5ujfhsM8
+
+8. javascript dasar
+programmer zaman now
+https://youtu.be/SDROba_M42g
+
+9. javascript DOM
+unpas
+https://youtube.com/playlist?list=PLFIM0718LjIWB3YRoQbQh82ZewAGtE2-3
+
+10. javascript ES6
+unpas
+https://youtube.com/playlist?list=PLFIM0718LjIUGpY8wmE41W7rTJo_3Y46-
+
+11. GIT & GITHUB
+unpas
+https://youtube.com/playlist?list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf
+
+12. CSS Pre-processor
+unpas
+https://youtube.com/playlist?list=PLFIM0718LjIUqemgG97MAOK0J_berlQM5
+
+13.API
+unpas 
+https://youtube.com/playlist?list=PLFIM0718LjIW7AsIbnhFg15t9yx4H-sQ0
+
+14.React JS
+Creative Academy Indonesia
+https://youtube.com/playlist?list=PL9E3AWZAtxc6VamYdTbmQanW6RatFPT7d
+
+Dea afrizal
+https://youtube.com/playlist?list=PLc6SEcJkQ6DxQmmUzUilxRUNrJyeHDmX7
+
+Parsinta
+https://youtu.be/EWK_YiJg1X0
+
+Nauval
+https://youtu.be/JS5w4rUbjQE
